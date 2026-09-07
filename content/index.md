@@ -1,4 +1,4 @@
-# Article Group Package File Specification
+## Article Group Package File Specification
 The specification consists of the following parts:
 * Layout Structure
 * Index Database Schema
