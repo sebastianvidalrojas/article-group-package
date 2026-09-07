@@ -1,1 +1,1 @@
-# article-group-package
+# Article Group Package File Specification
