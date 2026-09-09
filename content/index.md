@@ -8,4 +8,6 @@ The specification consists of the following parts:
 
 Additionally, this index page contains some key starting information needed for understanding the scope of the file format.
 ## Purpose
-An Article Group Package file is for storing and backing up information articles. These articles can contain JSON data or other multimedia files (images, sounds, videos, etc.). It supports complex content structures by allowing articles to have sub-articles or be organized into topics, which can also be nested inside parent topics with their own relationships.
+An Article Group Package file stores content units, called "nodes". Nodes can contain JSON or point to other multimedia files (images, sounds, videos, etc.) stored within the package. It supports nodes forming parent-child hierarchies, and node types, which enables developers to implement different behaviors depending on a node's type.
+
+The idea was to create an exchangeable file format for storing dictionary-style word articles.
