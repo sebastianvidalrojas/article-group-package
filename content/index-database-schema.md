@@ -5,4 +5,4 @@ Each file has an SQLite database called `index.db`. This file contains all neces
 * "What is this article?" (`type_id`),
 * ...and finally "What is **IN** this article?" (`content`).
 
-![Entity relationship diagram of the Index Database Schema](/content/assets/er_diagram_agpk.png)
+![Entity relationship diagram of the Index Database Schema](/content/assets/er_diagram_agpk_index.png)
