@@ -1,10 +1,10 @@
 ## Article Group Package File Specification
 The specification consists of the following parts:
-* Layout Structure
-* Index Database Schema
-* Content and Media Assets
-* Metadata Schema
-* Integrity and Error Handling
+* [Layout Structure](layout-structure.md)
+* [Index Database Schema](index-database-schema.md)
+* [Content and Media Assets](content-and-media-assets.md)
+* [Metadata Schema](metadata-schema.md)
+* [Integrity and Error Handling](integrity-and-error-handling.md)
 
 Additionally, this index page contains some key starting information needed for understanding the scope of the file format.
 ## Purpose
