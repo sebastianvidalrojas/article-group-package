@@ -1,1 +1,1 @@
-# Article Group Package File Specification
+# Node Group Package File Specification
